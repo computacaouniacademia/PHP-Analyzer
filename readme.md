@@ -3,9 +3,12 @@
 
 ## PHP Analyzer
 
-Esta é uma ferramenta desenvolvida como trabalho de conclusão de curso do curso de Sistemas de Informação no Centro Universitário Academia (UniAcademia) - Juiz de Fora, MG. <br>
+Descrição: Esta é uma ferramenta desenvolvida como trabalho de conclusão de curso do curso de Sistemas de Informação no Centro Universitário Academia (UniAcademia) - Juiz de Fora, MG. <br>
 Aluno: Jonas Antônio Gomes Vicente <br>
 Professor Orientador: Tassio Ferenzini Martins Sirqueira <br>
+TCC: Uma Ferramenta de Análise Estática de Código Fonte para Aplicações Web PHP <br>
+Ano: 2020-1 <br>
+Link: https://seer.uniacademia.edu.br/index.php/cesi/article/view/2544
 
 ## Preparando o ambiente de desenvolvimento
 Este sistema foi desenvolvido em PHP (7.3) com o framework [Laravel (5.8)](https://laravel.com/docs/5.8/releases).
